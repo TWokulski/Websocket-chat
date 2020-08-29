@@ -1,0 +1,24 @@
+body {
+    background-color: #524f4f;
+  }
+  
+  .main {
+    height: 100vh;
+    width: 100vw;
+    background-color: #5e5e5e;
+  }
+  
+  .title {
+    text-align: center;
+    width: 100%;
+    padding: 2%;
+    background-color: #9b9b9b;
+    color: #efefef;
+  }
+  
+  .bottom {
+    position: fixed;
+    width: 100%;
+    left: 0;
+    bottom: 0;
+  }
